@@ -1,8 +1,8 @@
 #+title: AI/ML Lab 2023-24W
 #+author: Soumajit Pramanik (Instructor), Debarghya Datta (TA)
 
-# Tutorials
+* Tutorials
 1. Model Deployment. check out [[file:Cat-Or-Dog-Classifier-App/README.md][Tutorial]]. 
 
-# Assignments
+* Assignments
 1. Digit Recognizer with Online Learning ([[file:Assignment-1/][Assignment-1]])
