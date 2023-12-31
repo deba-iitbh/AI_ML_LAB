@@ -13,23 +13,31 @@ In this assignment, you will be tasked with training a Digit Classifier using Co
 ### Task 1: Model Training
 
 1.1. **Data Preprocessing**: Load and preprocess the MNIST dataset. Normalize pixel values and reshape the images.
+
 1.2. **Build CNN Model**: Create a Convolutional Neural Network for digit classification using a framework like TensorFlow/Keras.
+
 1.3. **Compile and Train Model**: Compile the model with an appropriate optimizer and loss function. Train the model on the MNIST dataset.
+
 1.4. **Evaluate Model**: Evaluate the model's performance on a separate test set to ensure accuracy.
 
 ### Task 2: Streamlit Deployment
 
 2.1. **Install Streamlit**: Install Streamlit using `pip install streamlit` if you haven't already.
+
 2.2. **Create Streamlit App**: Develop a Streamlit application that allows users to upload images and see the model's predictions.
+
 2.3. **Integrate Model**: Incorporate the trained CNN model into the Streamlit app for real-time predictions.
 
 ### Task 3: User Feedback Loop
 
 3.1. **Feedback Interface**: Enhance the Streamlit app to include a feedback mechanism where users can indicate if the model prediction was correct or not.
+
 3.2. **Store Incorrect Predictions**: Implement a functionality to store incorrect predictions in a database or a folder. Save the input image, predicted label, and actual label for each incorrect prediction.
 
 ### Task 4: Model Fine-tuning
 
 4.1. **Retrieve Incorrect Predictions**: Develop a script to retrieve the stored incorrect predictions from the database or folder.
+
 4.2. **Re-train Model**: Use the retrieved incorrect predictions to fine-tune the model. Update the model weights based on the feedback.
+
 4.3. **Evaluate Fine-tuned Model**: Evaluate the performance of the fine-tuned model on the test set.
