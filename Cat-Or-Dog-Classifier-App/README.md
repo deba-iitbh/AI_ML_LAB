@@ -1,10 +1,6 @@
 # Cat-Or-Dog-Classifier-Streamlit
 
-<<<<<<< HEAD
-> Fork of ![Cat-Or-Dog-Recognizer-Web-App-DL-streamlit](https://github.com/surdebmalya/Cat-Or-Dog-Recognizer-Web-App-DL-streamlit/tree/master)
-=======
 > Fork of [Cat-Or-Dog-Recognizer-Web-App-DL-streamlit](https://github.com/surdebmalya/Cat-Or-Dog-Recognizer-Web-App-DL-streamlit/tree/master)
->>>>>>> b9abcaf (feat: Added Assignment1 & Tutorial)
 
 # Introduction
 
