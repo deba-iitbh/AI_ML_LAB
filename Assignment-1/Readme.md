@@ -8,7 +8,7 @@ In this assignment, you will be tasked with training a Digit Classifier using Co
 
 1. **Python and Libraries**: Ensure you have Python installed along with the necessary libraries, including TensorFlow/Pytorch, Streamlit, and any other dependencies.
 
-2. **MNIST Dataset**: Download and familiarize yourself with the MNIST dataset, a collection of 28x28 grayscale images of handwritten digits (0-9). Dataset is already provided in `input` folder
+2. **MNIST Dataset**: Familiarize yourself with the MNIST dataset, a collection of 28x28 grayscale images of handwritten digits (0-9). Dataset is already provided in `input` folder
 
 ### Task 1: Model Training
 
@@ -41,3 +41,12 @@ In this assignment, you will be tasked with training a Digit Classifier using Co
 4.2. **Re-train Model**: Use the retrieved incorrect predictions to fine-tune the model. Update the model weights based on the feedback.
 
 4.3. **Evaluate Fine-tuned Model**: Evaluate the performance of the fine-tuned model on the test set.
+
+## Submission
+
+You are expected to submit a **zipped folder** with the following files.
+
+1. app.py (streamlit app)
+2. model files (torch/tensorflow models)
+3. requirements.txt (packages needed to run model)
+4. Readme.md (Instructions to run code)

@@ -29,6 +29,6 @@ useless prediction can be done!!!
 
 # Behind The Scene
 
-Beside the scene there is a CNN model, it's pretty straight forward model, as my aim was to build a full stack, so I was not bother about the accuracy, though the rough model already gives aroung **65%** accuracy on the validation data, which was made by 30% splitting of training data!
+Behind the scene there is a CNN model, it's pretty straight forward model, as my aim was to build a full stack, so I was not bother about the accuracy, though the rough model already gives around **65%** accuracy on the test set provided in the dataset. Feel free to improve the model with new ideas.
 
 Checkout model architecture in [model.py](./src/model.py)
