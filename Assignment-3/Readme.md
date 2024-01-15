@@ -6,7 +6,7 @@ In this engaging project, you will be working with 30-second audio samples featu
 
 ## Dataset
 
-The [Birds dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/birds_dataset.zip) is an educational collection of 5 types of bird songs:
+The [Birds dataset](https://storage.googleapis.com/learning-datasets/birds_dataset.zip) is an educational collection of 5 types of bird songs:
 
 - White-breasted Wood-Wren
 - House Sparrow
