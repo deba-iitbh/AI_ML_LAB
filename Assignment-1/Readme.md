@@ -62,7 +62,7 @@ Response
 Response
 {
     "name": str,
-    "acc_no": int\[3\],
+    "acc_no": int[3],
     "balance": float
 }
 
@@ -112,10 +112,14 @@ lightweight, optimized to run on low-power devices/embedded systems.
 
 Speech Recognition:
 [_https://github.com/alphacep/vosk-api_](https://github.com/alphacep/vosk-api)
+
 Server: Flask
+
 LLM:
 [_https://github.com/ollama/ollama-python_](https://github.com/ollama/ollama-python)
+
 DB: Simple json file/ You can use any DB
+
 Text-to-speech:
 [_https://github.com/rhasspy/piper_](https://github.com/rhasspy/piper)
 
