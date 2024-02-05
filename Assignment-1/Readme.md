@@ -15,7 +15,7 @@ Key features include:
 Focusing on natural dialogue, the chatbot caters to straightforward use
 cases such as:
 
-1.  Chitchat
+1.  Chitchat/Get user details
 2.  Get account details (Balance, Dues, etc)
 3.  Transfer money
 
@@ -29,7 +29,7 @@ Optional Features:
 
 1.  Greet the user
 2.  Get the user name
-3.  Ge the authorization code (unique code)
+3.  Get the authorization code (unique code)
 
 #### API Example
 
@@ -124,3 +124,7 @@ Text-to-speech:
 [_https://github.com/rhasspy/piper_](https://github.com/rhasspy/piper)
 
 ![Pipeline](pipeline.png)
+
+# Submission
+
+Please provide a working demo of your implementation, and upload the zip of your code[Don't upload any model] by 17/02/2024 (Saturday)
